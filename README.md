@@ -67,6 +67,12 @@ throw Error.ValidationException("Your Message to the user")
 
 https://jitpack.io/#LordSahandii/CustomValidations
 
+## Developers
+- Lorenz Castillo
+- Sahand Hajiseyedi
+- Sukhmandeep Singh
+- Kelsey Zirk
+
 ## License
 
 MIT
